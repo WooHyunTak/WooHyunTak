@@ -19,15 +19,15 @@
 	<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white%22" />
 </div>
 
+</br>
+
 <div align="center">
-  <a href="https://bubble-city-3ac.notion.site/1609702f088780ad996beabd6c42ce69?pvs=4" style="text-decoration: none;">
-    <div style="max-width: 400px; margin: 20px auto; background-color: #ffffff; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); overflow: hidden;">
-      <div style="padding: 20px;">
-        <h3 style="margin: 0; color: #000000;">My Notion Portfolio 📚</h3>
-        <p style="color: #666666; margin: 10px 0;">개발자 포트폴리오 및 기술 문서 저장소</p>
-      </div>
-    </div>
-  </a>
+<h2> PORTFOLIO </h2>
+	<p align="center">	
+  		<a href="https://bubble-city-3ac.notion.site/1609702f088780ad996beabd6c42ce69?pvs=4">
+    			<img src="https://img.shields.io/badge/My%20Notion%20-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  		</a>
+	</p>
 </div>
 <!--
 **WooHyunTak/WooHyunTak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,4 +43,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice)
