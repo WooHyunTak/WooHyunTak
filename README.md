@@ -2,7 +2,6 @@
 
 <div align="center">
 	<h2> SKILL & Tools </h2>
-	<img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white%22" />
 	<img src= "https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white%22" />
 	<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=white%22" />
 	<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white%22" />
