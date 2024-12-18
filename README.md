@@ -25,10 +25,6 @@
       <div style="padding: 20px;">
         <h3 style="margin: 0; color: #000000;">My Notion Portfolio 📚</h3>
         <p style="color: #666666; margin: 10px 0;">개발자 포트폴리오 및 기술 문서 저장소</p>
-        <div style="display: flex; align-items: center; margin-top: 15px;">
-          <img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" width="20" style="margin-right: 8px;"/>
-          <span style="color: #666666;">notion.site</span>
-        </div>
       </div>
     </div>
   </a>
