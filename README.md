@@ -18,6 +18,21 @@
 	<br>
 	<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white%22" />
 </div>
+
+<div align="center">
+  <a href="https://bubble-city-3ac.notion.site/1609702f088780ad996beabd6c42ce69?pvs=4" style="text-decoration: none;">
+    <div style="max-width: 400px; margin: 20px auto; background-color: #ffffff; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); overflow: hidden;">
+      <div style="padding: 20px;">
+        <h3 style="margin: 0; color: #000000;">My Notion Portfolio 📚</h3>
+        <p style="color: #666666; margin: 10px 0;">개발자 포트폴리오 및 기술 문서 저장소</p>
+        <div style="display: flex; align-items: center; margin-top: 15px;">
+          <img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" width="20" style="margin-right: 8px;"/>
+          <span style="color: #666666;">notion.site</span>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
 <!--
 **WooHyunTak/WooHyunTak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
