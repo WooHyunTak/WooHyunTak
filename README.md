@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WEB%20FULL-STACK&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WEB%20FULL-STACK&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello!%20I%20AM%20Tak%20WOO%20HYUN%20A%20FULL-STACK%20WEB%20DEVELOPER%20&descAlignY=51&descAlign=62"/>
 <!--
 **WooHyunTak/WooHyunTak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
