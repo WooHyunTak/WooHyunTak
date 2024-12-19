@@ -19,6 +19,7 @@
 	<img src="https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logo=VSCode&logoColor=white%22" />
 	<br>
 	<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white%22" />
+	<img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=AmazonWebServices&logoColor=white%22" />
 </div>
 
 </br>
