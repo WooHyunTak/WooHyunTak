@@ -32,6 +32,17 @@
   		</a>
 	</p>
 </div>
+
+</br>
+
+<div align="center">
+<h2> BLOG </h2>
+	<p align="center">	
+  		<a href="https://woohyuntak.tistory.com/">
+    			<img src="https://img.shields.io/badge/My%20TiSTORY%20-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  		</a>
+	</p>
+</div>
 <!--
 **WooHyunTak/WooHyunTak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
